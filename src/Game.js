@@ -8,6 +8,8 @@ import {
 } from 'react-native';
 import {primaryColor} from './NameInput';
 
+
+// updated comment to check git
 export const {height, width} = Dimensions.get('window');
 
 const Game = ({navigation, route}) => {
